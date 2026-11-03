@@ -2,7 +2,7 @@
 
 # Pricing Multi-Event-Triggered Catastrophe Bonds
 
-A from-scratch Python replication of the copula–POT pricing framework of **Tang, Wen, Ling & Zhang (2023)**, *Pricing multi-event-triggered catastrophe bonds based on a copula–POT model*, Risks 11(8): 151 ([doi:10.3390/risks11080151](https://doi.org/10.3390/risks11080151)), using major-rainstorm records for China, 2006–2020.
+A replication of the copula–POT pricing framework of **Tang, Wen, Ling & Zhang (2023)**, *Pricing multi-event-triggered catastrophe bonds based on a copula–POT model*, Risks 11(8): 151 ([doi:10.3390/risks11080151](https://doi.org/10.3390/risks11080151)), using major-rainstorm records for China, 2006–2020.
 
 > Research Treatise I, Semester I, M.Sc. Statistics and Data Science
 > School of Mathematics, Applied Statistics & Analytics, SVKM's NMIMS, Mumbai
