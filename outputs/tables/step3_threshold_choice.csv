@@ -1,0 +1,4 @@
+Indicator,Unit,Our u (rule),quantile,n above u,xi at our u,Paper u,Paper u as quantile of our data,n above paper u (ours),Paper u as quantile of paper data (approx)
+AP,10k persons,196.86025,0.7125,95,0.12069930062716644,160.0,0.6707317073170732,108,
+CAA,10k ha,16.427500000000006,0.775,74,0.4808420828578679,12.0,0.6829268292682927,104,
+DEL,100m CNY (2020 prices),27.316505501154914,0.7625,78,0.4552300296799516,15.0,0.6067073170731707,129,

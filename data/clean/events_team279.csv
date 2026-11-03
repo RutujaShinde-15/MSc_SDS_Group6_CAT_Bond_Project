@@ -1,0 +1,280 @@
+event_id,level,year,provinces,n_provinces,source,AP,CAA,DEL,DEL_nominal
+2006-002,L1,2006,"Hunan, Anhui, Hubei, Jiangxi, Chongqing, Guangdong, Guangxi, Guizhou, Zhejiang",9,Yearbook of Meteorological Disasters in China,800.0,38.0,23.327020532602557,16.0
+2006-004,L1,2006,Chongqing,1,Yearbook of Meteorological Disasters in China,30.0,3.0,1.7495282369346359,1.2
+2006-005,L1,2006,Jiangxi,1,China Water Resources Yearbook,60.0,5.6,3.7906380486366866,2.6
+2006-006,L1,2006,Hunan,1,Yearbook of Meteorological Disasters in China,155.2,7.8,6.706521675888591,4.6
+2006-010,L1,2006,Guizhou,1,Yearbook of Meteorological Disasters in China,37.1,2.0,13.996216198394551,9.6
+2006-011,L1,2006,Hunan,1,China Water Resources Yearbook,342.0,13.8,21.577492295667923,14.8
+2006-012,L1,2006,Fujian,1,China Water Resources Yearbook,44.6,2.2,10.205568452675326,7.0
+2006-014,L1,2006,Hunan,1,Yearbook of Meteorological Disasters in China,260.0,7.5,5.540166285571322,3.8
+2006-015,L1,2006,Guizhou,1,Yearbook of Meteorological Disasters in China,116.6,3.1,7.58128579435591,5.2
+2006-016,L1,2006,Sichuan,1,Yearbook of Meteorological Disasters in China,151.8,7.2,6.2691347681136635,4.3
+2006-017,L1,2006,Anhui,1,Yearbook of Meteorological Disasters in China,412.0,38.0,11.809301053684985,8.1
+2006-019,L1,2006,Jiangsu,1,China Water Resources Yearbook,780.0,109.7,77.27075612031364,53.0
+2006-023,L1,2006,Henan,1,China Water Resources Yearbook,270.0,26.8,10.497159724525279,7.2
+2006-025,L1,2006,Sichuan,1,China Water Resources Yearbook,89.2,3.2,1.166355390317269,0.8
+2006-026,L1,2006,Chongqing,1,Yearbook of Meteorological Disasters in China,30.0,2.0,2.3327010835520023,1.6
+2006-029,L1,2006,Hunan,1,Yearbook of Meteorological Disasters in China,58.0,3.4,2.6242923554019533,1.8
+2006-030,L1,2006,Guangxi,1,Yearbook of Meteorological Disasters in China,150.0,8.4,7.143898886580983,4.9
+2006-038,L1,2006,Heilongjiang,1,Yearbook of Meteorological Disasters in China,1.6,18.2,3.0616695660943445,2.1
+2006-045,L1,2006,Shandong,1,Yearbook of Meteorological Disasters in China,20.3,1.9,10.205568452675326,7.0
+2006-047,L1,2006,Liaoning,1,Yearbook of Meteorological Disasters in China,20.0,8.0,6.123339132188689,4.2
+2006-048,L1,2006,Henan,1,Yearbook of Meteorological Disasters in China,220.4,19.2,5.977553193346249,4.1
+2006-059,L1,2006,Jilin,1,Yearbook of Meteorological Disasters in China,37.8,13.0,7.58128579435591,5.2
+2006-060,L1,2006,Hubei,1,Yearbook of Meteorological Disasters in China,60.0,5.2,3.4990564738692718,2.4
+2006-062,L1,2006,Shaanxi,1,Yearbook of Meteorological Disasters in China,150.0,14.0,4.956993438953956,3.4
+2006-064,L1,2006,Gansu,1,Yearbook of Meteorological Disasters in China,2.6,2.2,0.5831728466173666,0.4
+2006-069,L1,2006,Shaanxi,1,China Water Resources Yearbook,61.1,9.2,7.143898886580983,4.9
+2006-070,L1,2006,Yunnan,1,Yearbook of Meteorological Disasters in China,59.7,4.7,5.685961921496298,3.9
+2007-002,L1,2007,"Guangdong, Guangxi, Jiangxi, Hubei, Sichuan, Guizhou",6,Yearbook of Meteorological Disasters in China,305.3,11.1,11.407531530063862,8.2
+2007-003,L1,2007,Chongqing,1,China Water Resources Yearbook,162.4,11.55,3.1996784447431144,2.3
+2007-005,L1,2007,Sichuan,1,Yearbook of Meteorological Disasters in China,240.0,3.6,2.9214400555448883,2.1
+2007-007,L1,2007,Chongqing,1,Yearbook of Meteorological Disasters in China,164.9,7.1,7.929624393205059,5.7
+2007-008,L1,2007,Anhui,1,Yearbook of Meteorological Disasters in China,179.2,7.4,2.5040970173713535,1.8
+2007-009,L1,2007,Hubei,1,Yearbook of Meteorological Disasters in China,134.0,7.0,3.1996784447431144,2.3
+2007-011,L1,2007,Jiangxi,1,Yearbook of Meteorological Disasters in China,95.0,6.2,4.0343742181727205,2.9
+2007-012,L1,2007,Hunan,1,Yearbook of Meteorological Disasters in China,89.1,2.4,2.0867442821152826,1.5
+2007-013,L1,2007,Jiangxi,1,Yearbook of Meteorological Disasters in China,52.3,4.1,4.451717256346255,3.2
+2007-014,L1,2007,Guangxi,1,Yearbook of Meteorological Disasters in China,179.3,9.8,4.173488564230565,3.0
+2007-015,L1,2007,Sichuan,1,Yearbook of Meteorological Disasters in China,324.0,15.469999999999999,4.5908412994866366,3.3
+2007-016,L1,2007,Chongqing,1,Yearbook of Meteorological Disasters in China,287.5,11.5,7.094928619775453,5.1
+2007-017,L1,2007,Hubei,1,Yearbook of Meteorological Disasters in China,281.6,27.7,12.659580038749539,9.1
+2007-018,L1,2007,Guizhou,1,Yearbook of Meteorological Disasters in China,34.3,1.9,0.5842880111089777,0.42
+2007-019,L1,2007,Hubei,1,Yearbook of Meteorological Disasters in China,56.1,4.4,3.3387927908009596,2.4
+2007-020,L1,2007,Zhejiang,1,Yearbook of Meteorological Disasters in China,21.2,0.6799999999999999,3.1996784447431144,2.3
+2007-021,L1,2007,Guizhou,1,Yearbook of Meteorological Disasters in China,59.0,1.6,1.6693915468592118,1.2
+2007-022,L1,2007,Hubei,1,Yearbook of Meteorological Disasters in China,348.7,18.6,14.05074289349306,10.1
+2007-023,L1,2007,Sichuan,1,Yearbook of Meteorological Disasters in China,220.0,5.7,2.0867442821152826,1.5
+2007-024,L1,2007,Henan,1,Yearbook of Meteorological Disasters in China,465.6,37.5,25.180045731441236,18.1
+2007-026,L1,2007,Jiangsu,1,Yearbook of Meteorological Disasters in China,645.0,70.0,64.5499583995159,46.4
+2007-027,L1,2007,Anhui,1,Yearbook of Meteorological Disasters in China,1510.0,135.2,149.5500165820111,107.5
+2007-028,L1,2007,Yunnan,1,Yearbook of Meteorological Disasters in China,20.1,1.1,2.2258586281731274,1.6
+2007-029,L1,2007,Sichuan,1,Yearbook of Meteorological Disasters in China,1057.0,23.919999999999998,22.258605675896344,16.0
+2007-031,L1,2007,Shaanxi,1,Yearbook of Meteorological Disasters in China,71.4,11.8,9.04255855583289,6.5
+2007-033,L1,2007,Chongqing,1,Yearbook of Meteorological Disasters in China,203.6,7.2,3.8952598721148752,2.8
+2007-034,L1,2007,Hubei,1,Yearbook of Meteorological Disasters in China,82.9,4.2,2.782325709487043,2.0
+2007-035,L1,2007,Hunan,1,Yearbook of Meteorological Disasters in China,80.1,10.1,2.9214400555448883,2.1
+2007-036,L1,2007,Guizhou,1,Yearbook of Meteorological Disasters in China,48.3,1.3,0.932083573336126,0.67
+2007-037,L1,2007,Hubei,1,Yearbook of Meteorological Disasters in China,462.0,37.8,21.2847955564089,15.3
+2007-039,L1,2007,Xinjiang,1,Yearbook of Meteorological Disasters in China,22.9,2.5,7.512281355031526,5.4
+2007-040,L1,2007,Sichuan,1,China Water Resources Yearbook,652.0,18.2,16.41572556480657,11.8
+2007-041,L1,2007,Hubei,1,Yearbook of Meteorological Disasters in China,94.1,4.4,2.9214400555448883,2.1
+2007-042,L1,2007,Chongqing,1,Yearbook of Meteorological Disasters in China,532.2,21.1,41.45665695018995,29.8
+2007-043,L1,2007,Shandong,1,Yearbook of Meteorological Disasters in China,62.9,4.5,20.867442821152824,15.0
+2007-044,L1,2007,Yunnan,1,Yearbook of Meteorological Disasters in China,87.3,7.4,14.189866936633445,10.2
+2007-045,L1,2007,Hunan,1,Yearbook of Meteorological Disasters in China,280.7,15.8,11.268417184006019,8.1
+2007-046,L1,2007,Guizhou,1,China Water Resources Yearbook,184.8,7.88,20.310975739838913,14.6
+2007-047,L1,2007,Henan,1,Yearbook of Meteorological Disasters in China,304.6,20.4,33.248794167786684,23.9
+2007-048,L1,2007,Shaanxi,1,Yearbook of Meteorological Disasters in China,56.3,2.0,6.955814273717609,5.0
+2007-049,L1,2007,Shanxi,1,Yearbook of Meteorological Disasters in China,122.0,8.4,34.361728330414515,24.7
+2007-050,L1,2007,Guizhou,1,Yearbook of Meteorological Disasters in China,80.8,3.4,3.0605544016027335,2.2
+2007-051,L1,2007,Yunnan,1,Yearbook of Meteorological Disasters in China,90.0,3.5,5.564651418974086,4.0
+2007-052,L1,2007,Chongqing,1,Yearbook of Meteorological Disasters in China,96.3,2.2,2.5040970173713535,1.8
+2007-053,L1,2007,Sichuan,1,China Water Resources Yearbook,51.4,2.3,2.782325709487043,2.0
+2007-054,L1,2007,Shaanxi,1,Yearbook of Meteorological Disasters in China,139.6,16.6,11.546655573204244,8.3
+2007-057,L1,2007,Shandong,1,Yearbook of Meteorological Disasters in China,206.0,16.9,35.335538449901954,25.4
+2007-062,L1,2007,Shandong,1,Yearbook of Meteorological Disasters in China,86.0,4.8,9.320787247948582,6.7
+2007-071,L1,2007,Yunnan,1,Yearbook of Meteorological Disasters in China,62.9,1.2,5.147298683718016,3.7
+2007-073,L1,2007,Hubei,1,Yearbook of Meteorological Disasters in China,21.8,0.9099999999999999,1.5302772008013668,1.1
+2007-074,L1,2007,Shaanxi,1,Yearbook of Meteorological Disasters in China,32.9,0.53,1.8085155899995926,1.3
+2008-002,L1,2008,Hubei,1,China Water Resources Yearbook,45.45,2.8600000000000003,2.0493038464447584,1.56
+2008-003,L1,2008,Chongqing,1,China Water Resources Yearbook,38.83,4.15,1.3136540740352856,1.0
+2008-010,L1,2008,Hubei,1,China Water Resources Yearbook,37.8,8.879999999999999,1.2085667905953814,0.92
+2008-011,L1,2008,Guangxi,1,Yearbook of Meteorological Disasters in China,6.1,0.1706,1.173094862679614,0.893
+2008-013,L1,2008,Guangxi,1,China Water Resources Yearbook,6.0600000000000005,0.43,1.1822876969235034,0.9
+2008-017,L1,2008,"Guangdong, Guangxi, Fujian, Hunan, Hubei, Jiangxi, Zhejiang, Anhui, Guizhou, Yunnan",10,Yearbook of Meteorological Disasters in China,3629.3,172.1,389.63071570287354,296.6
+2008-020,L1,2008,Guangxi,1,China Water Resources Yearbook,5.93,0.32999999999999996,0.3223698118184163,0.24539999999999998
+2008-023,L1,2008,Fujian,1,China Water Resources Yearbook,55.54,3.34,7.500984253877378,5.71
+2008-027,L1,2008,Chongqing,1,China Water Resources Yearbook,44.81,1.6199999999999999,2.062443393280698,1.57
+2008-031,L1,2008,Inner Mongolia,1,China Water Resources Yearbook,10.84,4.11,1.760301695631852,1.34
+2008-042,L1,2008,Hubei,1,Yearbook of Meteorological Disasters in China,258.4,10.5,9.326964289523854,7.1
+2008-043,L1,2008,Guangxi,1,China Water Resources Yearbook,27.413,0.96,2.062443393280698,1.57
+2008-050,L1,2008,Guangxi,1,Yearbook of Meteorological Disasters in China,22.6,0.686,0.47554492755309635,0.36200000000000004
+2008-052,L1,2008,Henan,1,Yearbook of Meteorological Disasters in China,5.51,0.3701,0.22043408020263022,0.1678
+2008-053,L1,2008,Guangxi,1,Yearbook of Meteorological Disasters in China,47.37,1.7,2.4959514680413246,1.9
+2008-054,L1,2008,Henan,1,Yearbook of Meteorological Disasters in China,41.989999999999995,2.6,1.7077532053706321,1.3
+2008-064,L1,2008,Anhui,1,China Water Resources Yearbook,278.0,22.1,38.49015455210145,29.3
+2008-065,L1,2008,Jiangsu,1,China Water Resources Yearbook,79.39,14.180000000000001,9.313824742687915,7.09
+2008-078,L1,2008,Shandong,1,China Water Resources Yearbook,16.09,1.22,3.1396438067642967,2.39
+2008-081,L1,2008,Sichuan,1,China Water Resources Yearbook,32.12,0.7,2.1149918835419173,1.61
+2008-090,L1,2008,Zhejiang,1,China Water Resources Yearbook,8.07,0.62,2.3645850909295425,1.8
+2008-091,L1,2008,Sichuan,1,China Water Resources Yearbook,141.0,3.4200000000000004,4.072338296300174,3.1
+2008-093,L1,2008,Chongqing,1,Yearbook of Meteorological Disasters in China,43.3,0.3288,1.2492848401629884,0.951
+2008-094,L1,2008,Sichuan,1,China Water Resources Yearbook,258.95,12.23,32.63124516358008,24.84
+2008-102,L1,2008,Hainan,1,"Yearbook of Meteorological Disasters in China, China Water Resources Yearbook",252.8,9.3,7.881943838376786,6.0
+2008-103,L1,2008,Hunan,1,Yearbook of Meteorological Disasters in China,174.2,10.2,7.881943838376786,6.0
+2008-104,L1,2008,Guangxi,1,Yearbook of Meteorological Disasters in China,136.5,8.0,9.721063420859199,7.4
+2009-001,L1,2009,"Hubei, Hunan, Jiangxi, Guizhou, Zhejiang",5,Yearbook of Meteorological Disasters in China,80.0,15.5,3.3072966667248487,2.5
+2009-005,L1,2009,Shandong,1,Yearbook of Meteorological Disasters in China,270.0,34.5,17.46251592745806,13.2
+2009-009,L1,2009,Guizhou,1,China Water Resources Yearbook,0.96,0.15,0.19406771278793064,0.1467
+2009-010,L1,2009,Guangdong,1,Yearbook of Meteorological Disasters in China,70.0,4.4,2.381254375808494,1.8
+2009-013,L1,2009,Jiangxi,1,Yearbook of Meteorological Disasters in China,18.5,1.2,1.3229147878569254,1.0
+2009-016,L1,2009,Hunan,1,China Water Resources Yearbook,432.0,15.7,39.55523361241536,29.9
+2009-024,L1,2009,Fujian,1,China Water Resources Yearbook,18.64,1.27,3.201462707929692,2.42
+2009-025,L1,2009,Shandong,1,China Water Resources Yearbook,245.4,35.42,34.395862060940345,26.0
+2009-026,L1,2009,Heilongjiang,1,China Water Resources Yearbook,20.0,13.5,7.937508121306624,6.0
+2009-028,L1,2009,Yunnan,1,China Water Resources Yearbook,10.27,0.49000000000000005,1.402295105494561,1.06
+2009-029,L1,2009,Inner Mongolia,1,China Water Resources Yearbook,0.51,0.066,0.02910094468978063,0.022000000000000002
+2009-030,L1,2009,Inner Mongolia,1,China Water Resources Yearbook,3.7600000000000002,7.9,2.0902061405805448,1.58
+2009-031,L1,2009,Sichuan,1,China Water Resources Yearbook,311.71,13.49,20.743349255942853,15.68
+2009-040,L1,2009,Gansu,1,China Water Resources Yearbook,75.96000000000001,3.15,33.46981977002399,25.3
+2009-047,L1,2009,Anhui,1,China Water Resources Yearbook,50.0,3.15,2.3283373964109155,1.76
+2009-049,L1,2009,Guizhou,1,China Water Resources Yearbook,20.8,1.09,0.4101090146018669,0.31
+2009-050,L1,2009,Jiangxi,1,China Water Resources Yearbook,44.6,1.7,2.9765679697606173,2.25
+2009-052,L1,2009,Hubei,1,China Water Resources Yearbook,24.85,1.7600000000000002,1.6933336436399742,1.28
+2009-056,L1,2009,Sichuan,1,China Water Resources Yearbook,67.4,1.3599999999999999,3.9158370812557326,2.96
+2009-059,L1,2009,Chongqing,1,China Water Resources Yearbook,213.5,10.3,21.166685091123487,16.0
+2009-061,L1,2009,Zhejiang,1,China Water Resources Yearbook,15.6,1.56,3.5851083842915017,2.71
+2009-063,L1,2009,Guizhou,1,China Water Resources Yearbook,30.369999999999997,1.1400000000000001,0.886352132097537,0.67
+2009-072,L1,2009,Zhejiang,1,China Water Resources Yearbook,28.2,0.52,3.0427117697369566,2.3
+2009-076,L1,2009,Shaanxi,1,China Water Resources Yearbook,5.29,0.32999999999999996,0.714374373326041,0.54
+2009-079,L1,2009,Hubei,1,China Water Resources Yearbook,23.7,1.9300000000000002,2.1034426582418413,1.59
+2009-083,L1,2009,Shaanxi,1,China Water Resources Yearbook,12.2,1.27,2.182813278796941,1.65
+2009-084,L1,2009,Sichuan,1,China Water Resources Yearbook,58.5,1.2,0.8731253115187765,0.66
+2009-089,L1,2009,Sichuan,1,China Water Resources Yearbook,0.8,0.073,0.25135807640913155,0.19
+2009-094,L1,2009,Sichuan,1,China Water Resources Yearbook,81.03,6.709999999999999,6.760107753981137,5.11
+2009-097,L1,2009,Chongqing,1,China Water Resources Yearbook,65.5,1.8199999999999998,2.62598934484571,1.985
+2009-099,L1,2009,Zhejiang,1,China Water Resources Yearbook,97.3,2.77,3.6247985431103196,2.74
+2009-102,L1,2009,Hainan,1,China Water Resources Yearbook,118.14000000000001,2.23,1.706560464218735,1.29
+2010-003,L1,2010,"Jiangxi, Fujian, Guangxi, Hunan, Hubei, Guangdong",6,China Water Resources Yearbook,269.79,18.7,19.043353716600823,14.87
+2010-005,L1,2010,Guangdong,1,Yearbook of Meteorological Disasters in China,147.0,10.2,37.26709062311512,29.1
+2010-008,L1,2010,Guangxi,1,Yearbook of Meteorological Disasters in China,227.7,12.3,10.757506996445048,8.4
+2010-009,L1,2010,Hunan,1,Yearbook of Meteorological Disasters in China,343.5,18.4,29.839280554052504,23.3
+2010-011,L1,2010,Hunan,1,Yearbook of Meteorological Disasters in China,849.1,44.8,86.3162141038247,67.4
+2010-012,L1,2010,Guangxi,1,China Water Resources Yearbook,196.88,9.1,17.50656977341797,13.67
+2010-013,L1,2010,Jiangxi,1,Yearbook of Meteorological Disasters in China,880.3,61.0,260.48541655757447,203.4
+2010-014,L1,2010,Guizhou,1,China Water Resources Yearbook,151.0,9.52,5.570857551796966,4.35
+2010-015,L1,2010,Zhejiang,1,China Water Resources Yearbook,120.8,5.59,26.38151425762045,20.6
+2010-016,L1,2010,Guangxi,1,China Water Resources Yearbook,109.97,4.5,4.059683603591023,3.17
+2010-017,L1,2010,Guangdong,1,Yearbook of Meteorological Disasters in China,173.8,8.4,22.66760922308914,17.7
+2010-018,L1,2010,Guizhou,1,China Water Resources Yearbook,79.0,4.45,2.356410450351907,1.84
+2010-019,L1,2010,Yunnan,1,Yearbook of Meteorological Disasters in China,21.1,3.1,8.708464971228755,6.8
+2010-020,L1,2010,Guizhou,1,China Water Resources Yearbook,36.4,1.3,0.8068166611393295,0.63
+2010-025,L1,2010,Liaoning,1,Yearbook of Meteorological Disasters in China,156.5,24.3,29.070893431002343,22.7
+2010-026,L1,2010,Jilin,1,China Water Resources Yearbook,625.3,58.970000000000006,640.1230753715437,499.84
+2010-030,L1,2010,Henan,1,China Water Resources Yearbook,236.0,18.45,133.4443455342026,104.2
+2010-031,L1,2010,Shaanxi,1,China Water Resources Yearbook,271.0,8.93,85.79114617576155,66.99
+2010-034,L1,2010,Hubei,1,China Water Resources Yearbook,897.0600000000001,87.96000000000001,98.40560568947225,76.84
+2010-036,L1,2010,Gansu,1,China Water Resources Yearbook,139.0,5.2,51.30307455698878,40.06
+2010-039,L1,2010,Liaoning,1,Yearbook of Meteorological Disasters in China,72.3,12.6,25.22891902742141,19.7
+2010-050,L1,2010,Hainan,1,Yearbook of Meteorological Disasters in China,393.4,20.2,63.26440647066922,49.4
+2011-002,L1,2011,Guangxi,1,China Water Resources Yearbook,16.72,1.127,4.216204212800537,3.47
+2011-003,L1,2011,Guangdong,1,China Water Resources Yearbook,22.619999999999997,1.843,4.033947546541147,3.32
+2011-007,L1,2011,Guangdong,1,China Water Resources Yearbook,23.16,1.54,3.9245935467855135,3.23
+2011-008,L1,2011,Sichuan,1,China Water Resources Yearbook,41.5,1.92,7.533265841638884,6.2
+2011-012,L1,2011,Sichuan,1,China Water Resources Yearbook,97.94,2.949,5.370496432443335,4.42
+2011-013,L1,2011,Chongqing,1,China Water Resources Yearbook,197.72,6.254,13.632788939119775,11.22
+2011-014,L1,2011,Guizhou,1,China Water Resources Yearbook,69.58,3.1710000000000003,2.272133106033719,1.87
+2011-018,L1,2011,Guangxi,1,China Water Resources Yearbook,41.6,1.6,1.7982657737593064,1.48
+2011-019,L1,2011,"Jiangxi, Hubei, Hunan, Zhejiang, Anhui",5,Yearbook of Meteorological Disasters in China,3394.7,208.3,356.7367959675651,293.6
+2011-023,L1,2011,Shaanxi,1,China Water Resources Yearbook,17.8,1.068,2.9768588822366904,2.45
+2011-024,L1,2011,Sichuan,1,China Water Resources Yearbook,302.0,14.197999999999999,55.770501087042945,45.9
+2011-028,L1,2011,Inner Mongolia,1,China Water Resources Yearbook,62.6,13.5,0.003200037236796937,0.00263
+2011-033,L1,2011,Sichuan,1,China Water Resources Yearbook,18.0,0.5349999999999999,5.212540655018531,4.29
+2011-034,L1,2011,Hubei,1,China Water Resources Yearbook,9.7,0.41,3.888142213533636,3.2
+2012-005,L1,2012,"Jiangxi, Hunan, Hubei, Sichuan, Guangxi, Fujian, Guizhou, Chongqing, Guangdong",9,Yearbook of Meteorological Disasters in China,450.2,16.7,31.382706998772345,26.5
+2012-007,L1,2012,Gansu,1,China Water Resources Yearbook,52.0,3.719,101.8457620840194,86.0
+2012-008,L1,2012,"Guizhou, Hunan, Jiangxi",3,China Water Resources Yearbook,76.0,5.8,8.242403790395622,6.96
+2012-010,L1,2012,Guangdong,1,China Water Resources Yearbook,57.0,4.4,14.211035667808982,12.0
+2012-011,L1,2012,Guangxi,1,China Water Resources Yearbook,119.0,5.8,7.650270839515223,6.46
+2012-012,L1,2012,Jiangxi,1,China Water Resources Yearbook,149.0,14.9,25.698286913399233,21.7
+2012-013,L1,2012,Hunan,1,China Water Resources Yearbook,211.0,14.2,17.633523977975983,14.89
+2012-014,L1,2012,Inner Mongolia,1,China Water Resources Yearbook,69.0,49.4,79.70022439048986,67.3
+2012-016,L1,2012,Hubei,1,China Water Resources Yearbook,27.0,1.8,2.0013905616356262,1.69
+2012-017,L1,2012,Sichuan,1,China Water Resources Yearbook,597.0,24.5,73.54211152032799,62.1
+2012-020,L1,2012,Hubei,1,Yearbook of Meteorological Disasters in China,243.7,24.9,19.3033228023017,16.3
+2012-021,L1,2012,Guizhou,1,"Yearbook of Meteorological Disasters in China, China Water Resources Yearbook",227.8,8.7,16.1058455952942,13.6
+2012-022,L1,2012,Chongqing,1,Yearbook of Meteorological Disasters in China,84.3,2.3,2.842205194145289,2.4
+2012-023,L1,2012,Yunnan,1,Yearbook of Meteorological Disasters in China,24.1,1.2,2.9606356631543833,2.5
+2012-024,L1,2012,Hunan,1,Yearbook of Meteorological Disasters in China,370.4,20.3,33.04065598823937,27.9
+2012-025,L1,2012,Jiangxi,1,Yearbook of Meteorological Disasters in China,85.6,5.7,10.066153497058874,8.5
+2012-026,L1,2012,Sichuan,1,Yearbook of Meteorological Disasters in China,52.2,2.5,3.908030929814456,3.3
+2012-028,L1,2012,Chongqing,1,Yearbook of Meteorological Disasters in China,31.4,1.6,1.4211074456139126,1.2
+2012-029,L1,2012,Ningxia,1,Yearbook of Meteorological Disasters in China,2.2,320.0,0.3789619854970433,0.32
+2012-030,L1,2012,"Beijing, Tianjin, Hebei, Shanxi",4,Yearbook of Meteorological Disasters in China,826.9,88.3,424.8389314590812,358.74
+2012-031,L1,2012,Shaanxi,1,Yearbook of Meteorological Disasters in China,25.9,1.5,3.1974869040900353,2.7
+2012-032,L1,2012,Gansu,1,Yearbook of Meteorological Disasters in China,39.3,3.1,4.737015121630506,4.0
+2012-033,L1,2012,Inner Mongolia,1,Yearbook of Meteorological Disasters in China,19.7,6.1,7.342369074840143,6.2
+2012-034,L1,2012,Chongqing,1,Yearbook of Meteorological Disasters in China,108.8,4.9,15.750563885349452,13.3
+2012-035,L1,2012,Yunnan,1,Yearbook of Meteorological Disasters in China,116.9,5.9,7.9344923286380045,6.7
+2012-036,L1,2012,Sichuan,1,Yearbook of Meteorological Disasters in China,501.9,16.7,86.6873214524678,73.2
+2012-039,L1,2012,Inner Mongolia,1,"Yearbook of Meteorological Disasters in China, China Water Resources Yearbook",29.4,8.3,15.632143113422895,13.2
+2012-040,L1,2012,Gansu,1,"Yearbook of Meteorological Disasters in China, China Water Resources Yearbook",29.6,2.1,7.342369074840143,6.2
+2012-041,L1,2012,Shaanxi,1,Yearbook of Meteorological Disasters in China,15.1,1.3,1.5395282175404708,1.3
+2012-042,L1,2012,Ningxia,1,Yearbook of Meteorological Disasters in China,10.2,2.4,0.7105537228069563,0.6
+2012-043,L1,2012,Yunnan,1,China Water Resources Yearbook,4.05,20.169999999999998,5.637040140103448,4.76
+2012-063,L1,2012,Sichuan,1,China Water Resources Yearbook,20.0,0.6,27.237815130939705,23.0
+2012-071,L1,2012,Sichuan,1,China Water Resources Yearbook,369.0,9.603,99.90358190834705,84.36
+2013-001,L1,2013,"Hubei, Hunan, Jiangxi, Guangxi, Chongqing, Guizhou",6,Yearbook of Meteorological Disasters in China,140.0,9.6,7.50257457541324,6.5
+2013-002,L1,2013,"Anhui, Jiangxi, Hubei, Hunan, Guangdong, Guangxi, Chongqing, Sichuan, Guizhou, Yunnan",10,Yearbook of Meteorological Disasters in China,258.9,15.5,17.659909739555754,15.3
+2013-003,L1,2013,"Anhui, Fujian, Jiangxi, Hunan, Guangdong, Guangxi, Chongqing, Sichuan, Guizhou",9,Yearbook of Meteorological Disasters in China,603.3,34.6,101.91963445877673,88.3
+2013-004,L1,2013,"Guangdong, Fujian, Jiangxi, Yunnan",4,Yearbook of Meteorological Disasters in China,145.1,7.5,33.242190454579834,28.8
+2013-005,L1,2013,Hubei,1,China Water Resources Yearbook,149.1,15.7,8.783782211283913,7.61
+2013-008,L1,2013,"Yunnan, Jiangxi, Hunan",3,Yearbook of Meteorological Disasters in China,316.5,21.4,27.470971783429235,23.8
+2013-009,L1,2013,"Anhui, Hubei, Chongqing, Sichuan",4,Top Ten Natural Disasters in China,1319.8,71.84,194.37447029686646,168.4
+2013-010,L1,2013,Heilongjiang,1,China Water Resources Yearbook,542.0,265.4,377.4373616953603,327.0
+2013-013,L1,2013,Hubei,1,China Water Resources Yearbook,110.0,20.9,9.730265952185624,8.43
+2013-020,L1,2013,Hubei,1,China Water Resources Yearbook,3.12,0.33999999999999997,1.777533411297877,1.54
+2013-023,L1,2013,Gansu,1,Yearbook of Meteorological Disasters in China,64.7,6.5,65.21471280150654,56.5
+2013-029,L1,2013,Gansu,1,Yearbook of Meteorological Disasters in China,32.6,1.5,25.97046462601261,22.5
+2013-031,L1,2013,Shandong,1,Yearbook of Meteorological Disasters in China,180.0,17.1,15.120583221332028,13.1
+2013-043,L1,2013,"Heilongjiang, Jilin, Liaoning, Inner Mongolia",4,Yearbook of Meteorological Disasters in China,687.9,244.9,516.0619178114073,447.1
+2013-045,L1,2013,Sichuan,1,"Yearbook of Meteorological Disasters in China, China Water Resources Yearbook",12.0,0.64,3.116458082421322,2.7
+2014-001,L1,2014,"Fujian, Jiangxi, Hunan, Guangdong, Guangxi, Guizhou",6,Yearbook of Meteorological Disasters in China,547.7,32.5,95.0552830675363,84.0
+2014-002,L1,2014,"Fujian, Guangdong, Guangxi, Chongqing, Sichuan, Guizhou, Yunnan",7,Yearbook of Meteorological Disasters in China,378.9,15.3,47.07500111516449,41.6
+2014-005,L1,2014,"Zhejiang, Jiangxi, Fujian, Guangdong, Anhui, Hunan, Guizhou",7,China Water Resources Yearbook,486.0,34.8,61.10697045686833,54.0
+2014-006,L1,2014,"Guizhou, Guangxi, Hunan, Hubei, Anhui, Jiangsu, Zhejiang",7,Yearbook of Meteorological Disasters in China,542.0,32.2,36.89050442283934,32.6
+2014-007,L1,2014,Hunan,1,China Water Resources Yearbook,410.75,32.652,71.26882446147252,62.98
+2014-008,L1,2014,Guizhou,1,China Water Resources Yearbook,318.0,15.0,23.19801054654696,20.5
+2014-021,L1,2014,Yunnan,1,China Water Resources Yearbook,18.619999999999997,0.721,6.936769203617399,6.13
+2014-023,L1,2014,"Chongqing, Hubei",2,China Water Resources Yearbook,251.0,9.4,44.132809302993095,39.0
+2014-030,L1,2014,"Sichuan, Shaanxi, Hubei, Chongqing, Hunan, Guizhou, Yunnan",7,Yearbook of Meteorological Disasters in China,789.7,82.1,111.35047389642351,98.4
+2015-002,L1,2015,"Zhejiang, Jiangxi, Hunan, Anhui, Hubei",5,China Water Resources Yearbook,512.08,40.923,70.72007625785706,63.37
+2015-018,L1,2015,"Sichuan, Chongqing, Guizhou",3,China Water Resources Yearbook,161.8,9.1,17.186197560601915,15.4
+2015-019,L1,2015,Chongqing,1,Yearbook of Meteorological Disasters in China,14.2,0.67,5.9147257955971355,5.3
+2015-020,L1,2015,Yunnan,1,Yearbook of Meteorological Disasters in China,26.4,0.49000000000000005,4.463945277423834,4.0
+2015-022,L1,2015,Yunnan,1,Yearbook of Meteorological Disasters in China,5.3,0.16,7.0307145392237285,6.3
+2015-028,L1,2015,Hunan,1,Yearbook of Meteorological Disasters in China,60.2,3.7,8.816296529026276,7.9
+2016-003,L1,2016,"Fujian, Jiangxi, Hunan, Guangdong, Guangxi",5,China Water Resources Yearbook,215.49,15.287,34.51899561497927,31.55
+2016-005,L1,2016,"Zhejiang, Fujian, Jiangxi, Hunan, Guangxi, Sichuan, Chongqing, Guizhou, Yunnan",9,China Water Resources Yearbook,387.49,25.316,53.50171347448406,48.9
+2016-007,L1,2016,"Jiangsu, Zhejiang, Anhui, Jiangxi, Hubei, Hunan, Sichuan, Chongqing, Guizhou, Yunnan",10,China Water Resources Yearbook,938.28,78.728,129.72797744070718,118.57
+2016-008,L1,2016,"Jiangsu, Hubei, Sichuan, Chongqing, Guizhou",5,China Water Resources Yearbook,155.51,11.555,32.998192463815336,30.16
+2016-018,L1,2016,"Beijing, Hebei, Shanxi, Inner Mongolia, Xizang, Shaanxi, Gansu, Ningxia",8,China Water Resources Yearbook,32.989999999999995,8.82,24.125003151551823,22.05
+2016-041,L1,2016,Jiangsu,1,Yearbook of Meteorological Disasters in China,35.0,6.9,3.5011316495319216,3.2
+2017-001,L1,2017,"Fujian, Hunan, Guizhou",3,China Water Resources Yearbook,258.61,16.887999999999998,30.432480184011837,28.26
+2017-005,L1,2017,"Zhejiang, Anhui, Jiangxi, Hubei, Hunan",5,Top Ten Natural Disasters in China,2005.7,158.59,746.5971579790503,693.3
+2017-006,L1,2017,"Guangxi, Chongqing, Sichuan, Guizhou, Yunnan",5,Top Ten Natural Disasters in China,606.7,32.739999999999995,146.45495026366365,136.0
+2017-007,L1,2017,Jilin,1,Yearbook of Meteorological Disasters in China,195.3,39.5,447.4413956816952,415.5
+2017-010,L1,2017,Shaanxi,1,Yearbook of Meteorological Disasters in China、Top Ten Natural Disasters in China,56.8,7.790000000000001,97.0263993374953,90.1
+2017-014,L1,2017,Sichuan,1,China Water Resources Yearbook,23.95,0.9650000000000001,3.5536898368756775,3.3
+2017-032,L1,2017,"Gansu, Shaanxi, Sichuan, Chongqing, Guizhou, Hubei, Hunan",7,Yearbook of Meteorological Disasters in China,654.0,48.0,130.30183139100768,121.0
+2018-003,L1,2018,"Guangxi, Sichuan, Yunnan, Shandong, Henan",5,Yearbook of Meteorological Disasters in China,81.0,4.6,13.922372914884827,13.2
+2018-007,L1,2018,Jiangxi,1,Yearbook of Meteorological Disasters in China、Top Ten Natural Disasters in China,104.6,9.76,14.555214218250295,13.8
+2018-008,L1,2018,"Chongqing, Sichuan, Shaanxi, Gansu",4,Top Ten Natural Disasters in China,611.3,38.5,352.4892216927615,334.2
+2018-013,L1,2018,Beijing,1,Yearbook of Meteorological Disasters in China,1.6,0.05,2.109454849414005,2.0
+2018-015,L1,2018,Gansu,1,China Water Resources Yearbook,27.3,1.207,18.73192221388273,17.76
+2018-016,L1,2018,Inner Mongolia,1,China Water Resources Yearbook,73.67,30.445,57.355964384555264,54.38
+2018-047,L1,2018,"Guangdong, Fujian, Guangxi",3,Yearbook of Meteorological Disasters in China,200.0,7.1,23.20395485814138,22.0
+2018-048,L1,2018,Yunnan,1,Top Ten Natural Disasters in China,22.0,1.3699999999999999,26.05171648057965,24.7
+2018-054,L1,2018,Inner Mongolia,1,Yearbook of Meteorological Disasters in China,8.9,3.0,3.4805932287212067,3.3
+2019-001,L1,2019,Jiangxi,1,Yearbook of Meteorological Disasters in China,298.4,20.8,89.99503509374168,87.8
+2019-002,L1,2019,"Guangxi, Guangdong, Jiangxi, Zhejiang, Fujian, Hunan",6,Top Ten Natural Disasters in China,577.8,41.94,32.59500716614399,31.8
+2019-003,L1,2019,Guangxi,1,Yearbook of Meteorological Disasters in China,68.4,4.5,23.267509537080674,22.7
+2019-004,L1,2019,Guangdong,1,Yearbook of Meteorological Disasters in China,30.7,4.1,14.862505066725625,14.5
+2019-005,L1,2019,Fujian,1,Yearbook of Meteorological Disasters in China,14.1,1.6,11.582505687338905,11.3
+2019-006,L1,2019,Jiangxi,1,Yearbook of Meteorological Disasters in China,78.5,5.1,11.480007524936047,11.2
+2019-007,L1,2019,Hunan,1,Yearbook of Meteorological Disasters in China,66.5,6.7,10.045004160048405,9.8
+2019-008,L1,2019,Sichuan,1,Yearbook of Meteorological Disasters in China,27.9,3.4,12.1975043588386,11.9
+2019-009,L1,2019,Guizhou,1,Yearbook of Meteorological Disasters in China,45.9,1.3,9.840007835242687,9.6
+2019-010,L1,2019,"Anhui, Jiangxi, Hubei, Hunan",4,Top Ten Natural Disasters in China,1031.9,77.69,332.40762074322316,324.3
+2019-024,L1,2019,Sichuan,1,Yearbook of Meteorological Disasters in China、Top Ten Natural Disasters in China,44.6,1.5,162.87255706248217,158.9
+2019-032,L1,2019,"Chongqing, Sichuan, Guizhou",3,Yearbook of Meteorological Disasters in China,15.1,0.63,1.9475038739844728,1.9
+2020-002,L1,2020,"Guangdong, Guangxi, Hunan, Guizhou, Zhejiang, Fujian, Jiangxi, Hubei",8,Top Ten Natural Disasters in China,714.4,57.75,210.60007486147717,210.6
+2020-005,L1,2020,"Sichuan, Guizhou, Chongqing, Hunan, Anhui, Jiangxi, Hubei",7,Top Ten Natural Disasters in China,597.8,43.86,113.70003820650518,113.7
+2020-006,L1,2020,Jiangxi,1,Yearbook of Meteorological Disasters in China,60.6,4.4,6.000001939416507,6.0
+2020-007,L1,2020,Fujian,1,Yearbook of Meteorological Disasters in China,5.7,0.63,9.40000271518311,9.4
+2020-009,L1,2020,"Anhui, Jiangxi, Hubei, Hunan, Zhejiang, Jiangsu, Shandong, Henan, Chongqing, Sichuan, Guizhou",11,Top Ten Natural Disasters in China,3417.3,357.98,1322.0004596417123,1322.0
+2020-013,L1,2020,Hunan,1,Yearbook of Meteorological Disasters in China,35.0,2.5,6.50000290912476,6.5
+2020-014,L1,2020,"Sichuan, Chongqing, Shaanxi, Gansu, Yunnan",5,Top Ten Natural Disasters in China,852.3,33.11,609.3002100388077,609.3
+2020-022,L1,2020,Yunnan,1,Yearbook of Meteorological Disasters in China,9.4,0.9099999999999999,3.4000007757666024,3.4
+2020-029,L1,2020,Guizhou,1,Yearbook of Meteorological Disasters in China,24.2,1.0,3.199998448466794,3.2
